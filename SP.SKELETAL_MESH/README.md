@@ -1,5 +1,7 @@
 ### Description 
-skeletal mesh
+inspired by :
+http://www.grasshopper3d.com/forum/topics/skeletal-mesh
+http://madeincalifornia.blogspot.fr/2012/04/skmesh01.html
 
 This file has been submitted by [sperrault](https://github.com/sperrault)
 
